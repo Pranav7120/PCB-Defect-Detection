@@ -1,0 +1,10 @@
+flask
+pillow
+numpy
+huggingface_hub
+opencv-python-headless
+ultralytics
+pymongo
+PyJWT
+bcrypt
+requests
